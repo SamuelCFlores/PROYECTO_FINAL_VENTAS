@@ -9,6 +9,7 @@ correr el programa, después se encotrarán algunas bases de datos generadas
 para probar el sistema
 
 GENERALES: CODIGOS GENERALES
+
 DATOS PRECARGADOS: BASES SIMULADS / PRUEBAS
 
 NOTA: Cuando se crea o corre el sistema por si solo crea carpetas donde 
