@@ -1,0 +1,25 @@
+{
+  "comercios": [
+    {
+      "id_comercio": "comercio_1",
+      "nombre": "Carniceria",
+      "tipo": "Carniceria",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id_comercio": "comercio_2",
+      "nombre": "Ropa",
+      "tipo": "Ropa",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id_comercio": "comercio_3",
+      "nombre": "Prueba",
+      "tipo": "XXXXX-XXXXXX",
+      "descripcion": "",
+      "activo": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "categorias": [],
+  "usuarios": [
+    {
+      "id_usuario": "U_1",
+      "nombre_usuario": "admin",
+      "contrasena": "admin123",
+      "nombre_completo": "Administrador",
+      "rol": "ADMIN",
+      "activo": true
+    }
+  ]
+}
