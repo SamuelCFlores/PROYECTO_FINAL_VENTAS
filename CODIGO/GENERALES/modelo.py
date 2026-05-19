@@ -1,5 +1,5 @@
 """
-modelo.py  v3
+modelo.py  
 =============
 Backend central del sistema de registro de ventas.
 
