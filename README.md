@@ -7,7 +7,6 @@ Cuenta con autenticación por roles, gestión de usuarios, reportes comparativos
 
 /CODIGO : CODIGOS GENERALES DEL SISTEMA
   /GENERALES : SCRIPTS - GENRALES
-  
   /PRECARGADOS : BASES DE DATOS PRECARGADAS PARA PRUEBAS
 
 /DOCUMENTACIÓN : DOCUMENTACIÓN EMPLEADA 
